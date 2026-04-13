@@ -50,6 +50,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="service03"/>
 			<item value="service02"/>
 			<item value="service01"/>
 		</list>

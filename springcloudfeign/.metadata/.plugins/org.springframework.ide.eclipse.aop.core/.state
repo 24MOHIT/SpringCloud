@@ -4,5 +4,6 @@
 <aop-project name="config-server"/>
 <aop-project name="service01"/>
 <aop-project name="service02"/>
+<aop-project name="service03"/>
 <aop-project name="api-gateway"/>
 </aop-reference-model>
